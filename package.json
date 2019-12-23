@@ -1,0 +1,22 @@
+{
+  "name": "eth-todo-app",
+  "version": "1.0.0",
+  "description": "Blockchain Todo List powered by ethereum",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikenthiwa/todoApp_blockchain.git"
+  },
+  "author": "mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikenthiwa/todoApp_blockchain/issues"
+  },
+  "homepage": "https://github.com/mikenthiwa/todoApp_blockchain#readme"
+}
